@@ -4,7 +4,7 @@ excerpt: "Learn about the power of switching between Command and Insert modes in
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2023-04-04"
 author:
-  name: Richibansoft
+  name: Richiban
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
